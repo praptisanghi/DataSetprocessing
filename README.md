@@ -18,13 +18,12 @@ This project demonstrates how to build, train, and evaluate a machine learning c
 This project uses a Random Forest classifier to classify data into fault and no-fault categories based on two feature values. The project includes data preprocessing steps, model training, and evaluation.
 
 ## Project Structure
-```
+
 classifier_project/
 ├── fault_classifier.py
 ├── Fault.xlsx
 ├── NoFault.xlsx
 ├── README.md
-```
 
 - `fault_classifier.py`: The main script that loads the data, preprocesses it, trains the model, and evaluates its performance.
 - `Fault.xlsx`: Excel file containing fault data.
