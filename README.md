@@ -1,7 +1,6 @@
 Sure! Here's a comprehensive `README.md` file for the Python classifier project.
 
-```markdown
-# Python Classifier Project
+Python Classifier Project
 
 This project demonstrates how to build, train, and evaluate a machine learning classifier using Python. The classifier is designed to distinguish between fault and no-fault data based on provided features.
 
